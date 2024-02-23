@@ -1,4 +1,4 @@
-# Firecrack :fire:
+# Firecrack Premium V2 :fire:
 
 What is firecrack tools ?
 Firecrack tools are tools for testing and testing on websites or Facebook accounts, conducting<br>
